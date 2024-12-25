@@ -1,0 +1,51 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-image: url('background.png'); /* image: https://www.pngegg.com/en/search?q=grambling+State+Tigers */
+    background-size: cover; /* Makes the background cover the entire screen */
+    background-repeat: no-repeat; /* Prevents the image from repeating */
+    background-position: center; /* Centers the background image */
+    height: 100vh; /* Ensures the body is at least the height of the viewport */
+}
+
+#chat-container {
+    width: 50%;
+    margin: 50px auto;
+    background: rgba(255, 255, 255, 0.63); /* Semi-transparent white background   rgba(255, 255, 255, 0.8)           */
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.3);
+}
+
+label, select, input, button {
+    display: block;
+    width: 100%;
+    margin-bottom: 15px;
+    font-size: 18px;
+}
+
+#recommendations {
+    margin-top: 20px;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-size: 18px;
+    color: #333;
+    line-height: 1.8;
+}
+
+button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+.title {
+    text-align: center;
+    margin-top: 20px;
+}

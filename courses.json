@@ -1,0 +1,355 @@
+{
+    "Computer Science": {
+    "Freshman": [
+        {
+            "CourseNumber": "BIOL 113",
+            "CourseName": "Principles of Biology -I",
+            "Hours": "3",
+            "Prerequisites": [""]
+        },
+        {
+            "CourseNumber": "BIOL 115",
+            "CourseName": "Principles of Biology -I Lab",
+            "Hours": "1",
+            "Prerequisites": [""]
+        },
+        {
+            "CourseNumber": "FYE 101",
+            "CourseName": "First Year Experience I",
+            "Hours": "1",
+            "Prerequisites": [""]
+        },
+        {
+            "CourseNumber": "FYE 102",
+            "CourseName": "First Year Experience II",
+            "Hours": "1",
+            "Prerequisites": [""]
+        },
+        {
+            "CourseNumber": "ENG 101",
+            "CourseName": "Freshman Composition",
+            "Hours": "3",
+            "Prerequisites": [""]
+        },
+        {
+            "CourseNumber": "ENG 102",
+            "CourseName": "Freshman Composition",
+            "Hours": "3",
+            "Prerequisites": [""]
+        },
+        {
+            "CourseNumber": "HIST 101",
+            "CourseName": "History of Western Civilization I",
+            "Hours": "3",
+            "Prerequisites": [""]
+        },
+        {
+            "CourseNumber": "HIST 104",
+            "CourseName": "Modern World History",
+            "Hours": "3",
+            "Prerequisites": [""]
+        },
+        {
+            "CourseNumber": "MATH 153",
+            "CourseName": "Calculus I",
+            "Hours": "3",
+            "Prerequisites": ["MATH 148 or ACT(Math) 22 or above"]
+        },
+        {
+            "CourseNumber": "MATH 154",
+            "CourseName": "Calculus II",
+            "Hours": "3",
+            "Prerequisites": ["MATH 153"]
+        },
+        {
+            "CourseNumber": "CS 110",
+            "CourseName": "Computer Science I",
+            "Hours": "3",
+            "Prerequisites": [""]
+        },
+        {
+            "CourseNumber": "CS 120",
+            "CourseName": "Computer Science II",
+            "Hours": "3",
+            "Prerequisites": ["CS 110"]
+        }
+    ],
+    "Sophomore": [
+        {
+            "CourseNumber": "GET 300",
+            "CourseName": "Rising Junior Exam",
+            "Hours": "0",
+            "Prerequisites": [""]
+        },
+        {
+            "CourseNumber": "ENG 200",
+            "CourseName": "World Literature I",
+            "Hours": "3",
+            "Prerequisites": [""]
+        },
+        {
+            "CourseNumber": "ENG 207",
+            "CourseName": "Intro. to Technical Writing",
+            "Hours": "3",
+            "Prerequisites": [""]
+        },
+        {
+            "CourseNumber": "THEA 212",
+            "CourseName": "Fund. of Public Speaking",
+            "Hours": "3",
+            "Prerequisites": [""]
+        },
+        {
+            "CourseNumber": "MATH 201",
+            "CourseName": "Calculus III",
+            "Hours": "3",
+            "Prerequisites": ["MATH 154"]
+        },
+        {
+            "CourseNumber": "MATH 273",
+            "CourseName": "Probability and Statistics I",
+            "Hours": "3",
+            "Prerequisites": [""]
+        },
+        {
+            "CourseNumber": "PHYS 153",
+            "CourseName": "General Physics I",
+            "Hours": "3",
+            "Prerequisites": [""]
+        },
+        {
+            "CourseNumber": "PHYS 153L",
+            "CourseName": "General Physics Laboratory",
+            "Hours": "1",
+            "Prerequisites": [""]
+        },
+        {
+            "CourseNumber": "CS 201",
+            "CourseName": "Social, legal, and Ethical issues in Information Age.",
+            "Hours": "3",
+            "Prerequisites": ["CS 120 or with the permission of instructor"]
+        },
+        {
+            "CourseNumber": "CS 210",
+            "CourseName": "Discrete Structures",
+            "Hours": "3",
+            "Prerequisites": ["CS 110"]
+        },
+        {
+            "CourseNumber": "CS 236",
+            "CourseName": "Data Structures and Algorithm Analysis",
+            "Hours": "3",
+            "Prerequisites": ["CS 120", "CS 210"]
+        },
+        {
+            "CourseNumber": "CS 325",
+            "CourseName": "Comp. Org. & Architecture",
+            "Hours": "3",
+            "Prerequisites": ["CS 236"]
+        }
+    ],
+    "Junior": [
+        {
+            "CourseNumber": "SOC 101",
+            "CourseName": "Introduction to Social Science",
+            "Hours": "3",
+            "Prerequisites": [""]
+        },
+        {
+            "CourseNumber": "PHYS 154",
+            "CourseName": "General Physics II",
+            "Hours": "3",
+            "Prerequisites": [""]
+        },
+        {
+            "CourseNumber": "PHYS 154L",
+            "CourseName": "General Physics Laboratory",
+            "Hours": "1",
+            "Prerequisites": [""]
+        },
+        {
+            "CourseNumber": "MATH 274",
+            "CourseName": "Probability and Statistics II",
+            "Hours": "3",
+            "Prerequisites": ["MATH 273"]
+        },
+        {
+            "CourseNumber": "MATH 309",
+            "CourseName": "Intro. to Linear Algebra",
+            "Hours": "3",
+            "Prerequisites": ["MATH 154"]
+        },
+        {
+            "CourseNumber": "MATH 421",
+            "CourseName": "Numerical Methods I",
+            "Hours": "3",
+            "Prerequisites": ["MATH 201"]
+        },
+        {
+            "CourseNumber": "CS 310",
+            "CourseName": "Software Engineering",
+            "Hours": "3",
+            "Prerequisites": ["CS 236"]
+        },
+        {
+            "CourseNumber": "CS 311",
+            "CourseName": "Information Assurance and Security",
+            "Hours": "3",
+            "Prerequisites": ["CS 236"]
+        },
+        {
+            "CourseNumber": "CS 320",
+            "CourseName": "Database Management Systems",
+            "Hours": "3",
+            "Prerequisites": ["CS 236"]
+        },
+        {
+            "CourseNumber": "CS 336",
+            "CourseName": "Programming Language Concepts",
+            "Hours": "3",
+            "Prerequisites": ["CS 236"]
+        },
+        {
+            "CourseNumber": "CS 345",
+            "CourseName": "Operating Systems",
+            "Hours": "3",
+            "Prerequisites": ["CS 236"]
+        }
+    ],
+    "Senior": [
+        {
+            "CourseNumber": "ART 105",
+            "CourseName": "Intro. To Fine & Performing Arts",
+            "Hours": "3",
+            "Prerequisites": [""]
+        },
+        {
+            "CourseNumber": "ECON 201",
+            "CourseName": "Principles of Economics",
+            "Hours": "3",
+            "Prerequisites": [""]
+        },
+        {
+            "CourseNumber": "CS 400",
+            "CourseName": "Computer Science Seminar",
+            "Hours": "1",
+            "Prerequisites": ["CS 236"]
+        },
+        {
+            "CourseNumber": "CS 406",
+            "CourseName": "Capstone Project",
+            "Hours": "3",
+            "Prerequisites": ["CS 310"]
+        },
+        {
+            "CourseNumber": "CS 419",
+            "CourseName": "Computer Networks",
+            "Hours": "3",
+            "Prerequisites": ["CS 236"]
+        },
+        {
+            "CourseNumber": "CS 450",
+            "CourseName": "Parallel processing",
+            "Hours": "3",
+            "Prerequisites": ["CS 325"]
+        },
+        {
+            "CourseNumber": "CS 4xx",
+            "CourseName": "Major Elective",
+            "Hours": "3",
+            "Prerequisites": ["See list"]
+        },
+        {
+            "CourseNumber": "SPAN 101",
+            "CourseName": "Foreign Language",
+            "Hours": "3",
+            "Prerequisites": [""]
+        },
+        {
+            "CourseNumber": "SPAN 102",
+            "CourseName": "Foreign Language",
+            "Hours": "3",
+            "Prerequisites": [""]
+        }
+    ],
+    "Electives": [
+        {
+            "CourseNumber": "CS 411",
+            "CourseName": "Applied Cryptography",
+            "Hours": "3",
+            "Prerequisites": ["CS 311"]
+        },
+        {
+            "CourseNumber": "CS 415",
+            "CourseName": "Computer Games Programming",
+            "Hours": "3",
+            "Prerequisites": ["CS 236"]
+        },
+        {
+            "CourseNumber": "CS 424",
+            "CourseName": "Advanced Programming Technique",
+            "Hours": "3",
+            "Prerequisites": ["CS 236"]
+        },
+        {
+            "CourseNumber": "CS 426",
+            "CourseName": "Artificial Intelligence",
+            "Hours": "3",
+            "Prerequisites": ["CS 236"]
+        },
+        {
+            "CourseNumber": "CS 428",
+            "CourseName": "Computer Graphics",
+            "Hours": "3",
+            "Prerequisites": ["CS 236"]
+        },
+        {
+            "CourseNumber": "CS 435",
+            "CourseName": "Big Data and Cloud Security",
+            "Hours": "3",
+            "Prerequisites": ["CS 311"]
+        },
+        {
+            "CourseNumber": "CS 451",
+            "CourseName": "Robotics",
+            "Hours": "3",
+            "Prerequisites": ["CS 236"]
+        },
+        {
+            "CourseNumber": "CS 456",
+            "CourseName": "Special Topics in Computer Science",
+            "Hours": "3",
+            "Prerequisites": ["CS 236"]
+        },
+        {
+            "CourseNumber": "CS 462",
+            "CourseName": "Special Topics in Software Engineering",
+            "Hours": "3",
+            "Prerequisites": ["CS 310"]
+        },
+        {
+            "CourseNumber": "CS 371",
+            "CourseName": "CO-OP-1",
+            "Hours": "3",
+            "Prerequisites": [""]
+        },
+        {
+            "CourseNumber": "CS 372",
+            "CourseName": "CO-OP-2",
+            "Hours": "3",
+            "Prerequisites": [""]
+        },
+        {
+            "CourseNumber": "CS 471",
+            "CourseName": "CO-OP-3",
+            "Hours": "3",
+            "Prerequisites": [""]
+        },
+        {
+            "CourseNumber": "CS 472",
+            "CourseName": "CO-OP-4",
+            "Hours": "3",
+            "Prerequisites": [""]
+        }
+    ]}
+}
